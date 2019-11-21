@@ -4,7 +4,7 @@ Here is description of methods, arrays, variable and program flow for assignment
 1.  exit_method()
     * If user has selected any addons then user will see below messageg
                Your treatment for today is #{massage_selection} with #{oil_selection} with         #{massage_add_ons}. Please take a seat to our lounge area and help yourself to a complimentary tea while we print your order  and get your room ready
-If user has not selected any addons then user will see below message
+    * If user has not selected any addons then user will see below message
 Your treatment for today is #{massage_selection} with #{oil_selection}. Please wait one while we get your room ready
 
 At the end of exit_method save_to_file method will be called to save output to a file treatment.txt
