@@ -86,13 +86,8 @@ User Input Details:
 
 First of all user will  prompted to a box in a terminal emulator with below output messages
 
-# =>
-# ┌────────────────────────┐
-# │Welcome to Zen Sanctuary│
-# └────────────────────────┘
 
 ```ruby
-print box
 # =>
 # ┌───────────────────────┐
 # │                       │
