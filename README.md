@@ -91,7 +91,20 @@ First of all user will  prompted to a box in a terminal emulator with below outp
 # │Welcome to Zen Sanctuary│
 # └────────────────────────┘
 
-
+```ruby
+print box
+# =>
+# ┌───────────────────────┐
+# │                       │
+# │                       │
+# │                       │
+# │   Welcome to Zen      │
+# │   Sanctuary           │
+# │                       │
+# │                       │
+# │                       │
+# └───────────────────────┘
+```
 To help direct you to our menu system, may I begin with your name please?
 Then user will be asked to input his/her name.
 Pleasure to have you here today Bree! Please select your preferred massage type from the following options.
