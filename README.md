@@ -9,14 +9,12 @@ Your treatment for today is #{massage_selection} with #{oil_selection}. Please w
 
 At the end of exit_method save_to_file method will be called to save output to a file treatment.txt
 
-2. select_add_ons()
-continue = true
-           In this method user can select multiple adons. All user selected addons are placed once in more_add_ons array. Then use will be prompted with a below message
+1.  select_add_ons()
+    * In this method user can select multiple adons. All user selected addons are placed once in more_add_ons array. Then use will be prompted with a below message
 
 Would you like to select another upgrade? Y or N ?
-
-If you enter “Y” then continue = true to select more adons. 
-If you enter “N” then while loop with exit and selected add_ons list will be returned otherwise continue = true to select more adons.
+    * If you enter “Y” then continue = true to select more adons. 
+    * If you enter “N” then while loop with exit and selected add_ons list will be returned otherwise continue = true to select more adons.
 
 3. save_to_file()
 
