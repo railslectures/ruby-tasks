@@ -1,8 +1,8 @@
 # Assignment No.1
-Here is description of methods, arrays, variable and program flow for assignment-1 solution.
+Here is description of methods, arrays, variable and program flow for assignment-1 solution:
 
-1. exit_method()
-  
+1.  exit_method()
+
    *  If user has selected any addons then user will see below messageg
                Your treatment for today is #{massage_selection} with #{oil_selection} with         #{massage_add_ons}. Please take a seat to our lounge area and help yourself to a complimentary tea while we print your order  and get your room ready
 If user has not selected any addons then user will see below message
