@@ -27,7 +27,7 @@ Would you like to select another upgrade? Y or N ?
 A. relaxation, deep tissue, remedial, swedish, shiatsu, aromatherapy
 B. thai massage
 
-##  A Case: massage_selection = "relaxation", "deep tissue", "remedial", "swedish", "shiatsu", "aromatherapy"
+###  4.1 Case: massage_selection = "relaxation", "deep tissue", "remedial", "swedish", "shiatsu", "aromatherapy"
 
 For example you have selected “relaxation”
 
@@ -54,7 +54,7 @@ else If you enter ’N’ then exit_method method will be called with arguments
 exit_method([],"relaxation", “coconut oil”)
 
 
-##  B Case: massage_selection = "thai massage"
+###  4.2 Case: massage_selection = "thai massage"
 
 On next line you will see below text message  with colors.
 
