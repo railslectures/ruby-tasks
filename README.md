@@ -75,12 +75,15 @@ At end of program user will be see below message.
 
 Your treatment for today: #{massage_selection}. Please take a seat to our lounge area and help yourself to a complimentary tea while we get your room ready
 
+```markdown
+
 There are following below 4 arrays.
 
 massage_therapy = ["relaxation", "deep tissue", "remedial", "swedish", "shiatsu", "aromatherapy", "thai massage"]
 massage_oils = ["coconut oil", "avocado oil", "grapeseed oil", "jojoba oil", "apricot oil"]
 add_ons = ["body scrub", "facials", "cupping", "hotstone", "reflexology"]
 Massage_add_ons = []
+```
 
 User Input Details:
 
